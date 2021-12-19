@@ -1,0 +1,16 @@
+Create release branch with human (master) in boots (boots branch) and hat (hat branch).
+13 коммитов.
+last
+hometask file
+2-merges
+Merge branch 'boots_buttons'
+Merge remote-tracking branch 'origin/hat'
+Merge remote-tracking branch 'origin/buttons' into boots_buttons
+Merge remote-tracking branch 'origin/boots' into boots_buttons
+fix readme
+dots
+README added
+boots
+heat added
+init
+
